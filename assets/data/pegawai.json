@@ -1,0 +1,152 @@
+[
+	{
+		"nik": "1234567890123456",
+		"nama": "Andi Saputra",
+		"no_hp": "081234567890",
+		"email": "andi@example.com"
+	},
+	{
+		"nik": "9876543210987654",
+		"nama": "Siti Aminah",
+		"no_hp": "085712345678",
+		"email": "siti@example.com"
+	},
+	{
+		"nik": "1122334455667788",
+		"nama": "Budi Utomo",
+		"no_hp": "089911223344",
+		"email": "budi@example.com"
+	},
+	{
+		"nik": "3344556677889900",
+		"nama": "Dewi Lestari",
+		"no_hp": "081344556677",
+		"email": "dewi@example.com"
+	},
+	{
+		"nik": "5566778899001122",
+		"nama": "Eko Prasetyo",
+		"no_hp": "085277889900",
+		"email": "eko@example.com"
+	},
+	{
+		"nik": "7788990011223344",
+		"nama": "Farida Wahyuni",
+		"no_hp": "087788990011",
+		"email": "farida@example.com"
+	},
+	{
+		"nik": "9900112233445566",
+		"nama": "Gilang Ramadhan",
+		"no_hp": "082111223344",
+		"email": "gilang@example.com"
+	},
+	{
+		"nik": "2233445566778899",
+		"nama": "Hani Safitri",
+		"no_hp": "089533445566",
+		"email": "hani@example.com"
+	},
+	{
+		"nik": "4455667788990011",
+		"nama": "Indra Wijaya",
+		"no_hp": "081255667788",
+		"email": "indra@example.com"
+	},
+	{
+		"nik": "6677889900112233",
+		"nama": "Joko Susilo",
+		"no_hp": "085366778899",
+		"email": "joko@example.com"
+	},
+	{
+		"nik": "8899001122334455",
+		"nama": "Kartika Sari",
+		"no_hp": "081911223344",
+		"email": "kartika@example.com"
+	},
+	{
+		"nik": "1021324354657687",
+		"nama": "Lukman Hakim",
+		"no_hp": "082244556677",
+		"email": "lukman@example.com"
+	},
+	{
+		"nik": "2132435465768798",
+		"nama": "Maya Sofia",
+		"no_hp": "081355667788",
+		"email": "maya@example.com"
+	},
+	{
+		"nik": "3243546576879809",
+		"nama": "Nanda Pratama",
+		"no_hp": "085766778899",
+		"email": "nanda@example.com"
+	},
+	{
+		"nik": "4354657687980910",
+		"nama": "Olivia Putri",
+		"no_hp": "089877889900",
+		"email": "olivia@example.com"
+	},
+	{
+		"nik": "5465768798091021",
+		"nama": "Puji Astuti",
+		"no_hp": "081288990011",
+		"email": "puji@example.com"
+	},
+	{
+		"nik": "6576879809102132",
+		"nama": "Qori Ahmad",
+		"no_hp": "085399001122",
+		"email": "qori@example.com"
+	},
+	{
+		"nik": "7687980910213243",
+		"nama": "Rizky Ramadhan",
+		"no_hp": "087700112233",
+		"email": "rizky@example.com"
+	},
+	{
+		"nik": "8798091021324354",
+		"nama": "Siska Amalia",
+		"no_hp": "081211223344",
+		"email": "siska@example.com"
+	},
+	{
+		"nik": "9809102132435465",
+		"nama": "Taufik Hidayat",
+		"no_hp": "085222334455",
+		"email": "taufik@example.com"
+	},
+	{
+		"nik": "0910213243546576",
+		"nama": "Umar Bakri",
+		"no_hp": "081333445566",
+		"email": "umar@example.com"
+	},
+	{
+		"nik": "1021324354657687",
+		"nama": "Vina Panduwinata",
+		"no_hp": "089544556677",
+		"email": "vina@example.com"
+	},
+	{
+		"nik": "2132435465768798",
+		"nama": "Wahyu Setiawan",
+		"no_hp": "081255667788",
+		"email": "wahyu@example.com"
+	},
+	{
+		"nik": "3243546576879809",
+		"nama": "Xena Putri",
+		"no_hp": "085766778899",
+		"email": "xena@example.com"
+	},
+	{
+		"nik": "4354657687980910",
+		"nama": "Yusuf Mansur",
+		"no_hp": "089877889900",
+		"email": "yusuf@example.com"
+	}
+]
