@@ -62,16 +62,11 @@ class Employes extends CI_Controller
 		];
 
 		$this->db->trans_begin();
-		$this->db->insert('employes', $data);
-		$id = $this->db->insert_id();
 
 		if (!empty($_FILES['ktp']['name'])) {
 			if ($this->upload->do_upload('ktp')) {
 				$uploadData = $this->upload->data();
-				$ktp = 'uploads/' . $uploadData['file_name'];
-
-				$this->db->where('id', $id);
-				$this->db->update('employes', ['ktp' => $ktp]);
+				$data['ktp'] = 'uploads/' . $uploadData['file_name'];
 			} else {
 				$this->db->trans_rollback();
 				$this->session->set_flashdata('error', $this->upload->display_errors());
@@ -79,6 +74,8 @@ class Employes extends CI_Controller
 				return;
 			}
 		}
+
+		$this->db->insert('employes', $data);
 		$this->db->trans_commit();
 
 		$this->session->set_flashdata('success', 'Data berhasil ditambahkan');
